@@ -1,4 +1,5 @@
-NULL
-
-//Online = Photon Runs Normal.
-//Offline = Disconnects users and returns to loading screen.
+Servers Online = True
+Servers Offline = False
+Update Underway = False
+BugFix Underway = False
+Instant Offline = False
