@@ -1,1 +1,5 @@
-This literally only works for my game, if you link it to yours, its not gonna do jackshit lmfao.
+THIS ONLY WORKS FOR MY GAME
+
+IF YOU IMPORT THIS TO YOUR GAME, ITS GONNA DO NOTHING.
+AND IF YOU DO FIGURE OUT HOW TO USE THIS, WHEN MY SERVERS GO DOWN, SO WILL YOURS.
+SO JUST IGNORE THIS REPOSITORY.
